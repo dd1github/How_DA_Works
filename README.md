@@ -10,3 +10,7 @@ SV_counts.py generates the files contained in SV_viz.py.
 The change in model weights for the image datasets can be calculated with cifar_wt_diff.py, places_wt_diff.py, and inat_wt_diff.py for CIFAR-10, Places, and INaturalist, respectively. Pre-trained models are available through the data link.
 
 
+
+Data and pre-trained models are available at XX.
+
+
