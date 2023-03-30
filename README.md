@@ -5,6 +5,8 @@ For single layer models (SVM and logistic regression - LG), we used the SKLearn 
 
 SV_viz.py can be used to dispaly the following visualizations relating to SVM models: Ratio of Class Dual Coefficient Values, Ratio of Number of Class Support Vectors, Ratio of New Support Vectors vs Base, and the Ratio of Synthetic Support Vectors.
 
-SV_counts.py generates the files contained in SV_viz.py
+SV_counts.py generates the files contained in SV_viz.py.
+
+The change in model weights for the image datasets can be calculated with cifar_wt_diff.py, places_wt_diff.py, and inat_wt_diff.py for CIFAR-10, Places, and INaturalist. Pre-trained models are available through the data link.
 
 
