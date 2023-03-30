@@ -7,6 +7,6 @@ SV_viz.py can be used to dispaly the following visualizations relating to SVM mo
 
 SV_counts.py generates the files contained in SV_viz.py.
 
-The change in model weights for the image datasets can be calculated with cifar_wt_diff.py, places_wt_diff.py, and inat_wt_diff.py for CIFAR-10, Places, and INaturalist. Pre-trained models are available through the data link.
+The change in model weights for the image datasets can be calculated with cifar_wt_diff.py, places_wt_diff.py, and inat_wt_diff.py for CIFAR-10, Places, and INaturalist, respectively. Pre-trained models are available through the data link.
 
 
