@@ -1,5 +1,10 @@
 # How_DA_Works
 This repository provides python code and links to data sources that support several of the experiments in the paper, "Towards Understanding How Data Augmentation Works when Learning with Imbalanced Data," by Damien Dablain and Nitesh Chawla.
 
-For single layer models, we used the SKLearn package. The data used in the support vector and logistic regression classifiers can be conveniently extracted from SKLearn fitted models with built-in functions. We have included sample extracted data in the attached links to reproduce representative experiments.
+For single layer models (SVM and logistic regression - LG), we used the SKLearn package to train and predict with tabular data. Information about SVM support vectors and LG weights can be conveniently extracted from SKLearn fitted models with built-in functions. We have included sample extracted data in the attached links to reproduce representative experiments.
+
+SV_viz.py can be used to dispaly the following visualizations relating to SVM models: Ratio of Class Dual Coefficient Values, Ratio of Number of Class Support Vectors, Ratio of New Support Vectors vs Base, and the Ratio of Synthetic Support Vectors.
+
+SV_counts.py generates the files contained in the SV_viz.py
+
 
