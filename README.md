@@ -9,8 +9,8 @@ SV_counts.py generates the files contained in SV_viz.py.
 
 The change in model weights for the image datasets can be calculated with cifar_wt_diff.py, places_wt_diff.py, and inat_wt_diff.py for CIFAR-10, Places, and INaturalist, respectively. Pre-trained models are available through the data link.
 
+The overlap in top-K features in logistic regression models trained with DA vs. a base, imbalanced model can be calculated and printed with topk_LG.py.
 
-
-Data and pre-trained models are available at XX.
+Data and pre-trained models are available at https://drive.google.com/file/d/1M9xgweB3IcPh1k2WlRYhJtURsc5YOtDg/view?usp=share_link.
 
 
